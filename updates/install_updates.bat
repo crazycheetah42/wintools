@@ -1,0 +1,3 @@
+echo Installing Windows Updates...
+echo Please press a key if you have already run this as administrator. Otherwise, please run this as administrator.
+powershell Install-WindowsUpdate
