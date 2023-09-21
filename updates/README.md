@@ -1,0 +1,2 @@
+# Update checker
+This is an update checker powered by Powershell. For the first time, you need to run first_time_setup.bat and then you can create shortcuts for check for and install updates. This is just an alternative to the built-in Windows Update checker through Windows Settings.
